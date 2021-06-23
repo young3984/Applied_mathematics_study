@@ -1,4 +1,6 @@
 # Applied mathematics study
+- Select a topic from the Korean Mathematics Association and MATHEMATICS FOR A BETTER WORLD, read a paper or article, and present it.(1st semester of 2021).
+- Study is with [오서영](https://github.com/OH-Seoyoung) and 권정민.
 
 ## 1. Predicting Storm(03/02)
 - Read the thesis, organize it into [PPT](https://github.com/young3984/Applied_mathematics_study/blob/master/youngmin_1_predicting_storm/predicting_storm_surge.pdf), and present it at a study meeting 
