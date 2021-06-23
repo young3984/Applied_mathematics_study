@@ -19,7 +19,7 @@
 - I summarized the thesis I had read before and presented it in [PPT](https://github.com/young3984/Applied_mathematics_study/blob/master/youngmin_3_Reconstruction/Reconstruction.pdf), and presented the [[Code]](https://github.com/young3984/Applied_mathematics_study/blob/master/youngmin_3_Reconstruction/cahn_hilliard.m) I had written in the study.
 ```
 [3] SEUNGGYU LEE, YONGHO CHOI, DOYOON LEE, HONG-KWON JO, SEUNGHYUN LEE,SUNGHYUN MYUNG, AND JUNSEOK KIM, [A MODIFIED CAHN–HILLIARD EQUATION FOR 3D VOLUME
-RECONSTRUCTION FROM TWO PLANAR CROSS SECTIONS], 
+RECONSTRUCTION FROM TWO PLANAR CROSS SECTIONS], KSIAM Vol.19, No.1, 47–56, 2015
 ```
 ## 4. Group Screening(04/06)
 - After reading the article, I organized it into [PPT](https://github.com/young3984/Applied_mathematics_study/tree/master/youngmin_4_Group%20screening) and presented it in the study.
